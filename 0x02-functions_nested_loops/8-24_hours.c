@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* tingan joseph -> prints 24 hours
+* tingan_joseph -> prints 24 hours
 */
-void jack_bauer(void)
+void tingan_joseph(void)
 {
 	int i, j;
 
